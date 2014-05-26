@@ -1,0 +1,624 @@
+TIVBricker
+v7
+r0
+t319644217.824971
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/Info.plist" IVBricker-Info.plist
+cCompileXIB "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/MainWindow.xib"
+cCompileXIB "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/IVBrickerViewController.xib"
+cCpResource build/Distribution-iphonesimulator/IVBricker.app/ball.png ball.png
+cCpResource build/Distribution-iphonesimulator/IVBricker.app/paddle.png paddle.png
+cProcessPCH /var/folders/8G/8GalgwV5EUmJvcgzL8oEJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IVBricker_Prefix-gbvtaryvmptgsofjmnelwvbqfpwh/IVBricker_Prefix.pch.gch IVBricker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/main.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/IVBrickerAppDelegate.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/IVBrickerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/IVBrickerViewController.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/VerticalBorder.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/VerticalBorder.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/Ball.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/Ball.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/Game.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/Game.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/GameElement.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GameElement.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/GEImage.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GEImage.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/HorizontalBorder.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/HorizontalBorder.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/IVBricker" normal i386
+cGenerateDSYMFile "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app.dSYM" "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/IVBricker"
+cTouch "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m
+c000000004D5D29BC0000000000000C92
+t1297951164
+s3218
+i"IVBrickerViewController.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/Ball.h
+c000000004D5D29BC00000000000001CE
+t1297951164
+s462
+i<Foundation/Foundation.h>
+i"GEImage.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/Ball.m
+c000000004D5D2A2A00000000000002BC
+t1297951274
+s700
+i"ball.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GEImage.h
+c000000004D5D2A540000000000000236
+t1297951316
+s566
+i<Foundation/Foundation.h>
+i"GameElement.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GEImage.m
+c000000004D5D2A2A0000000000000526
+t1297951274
+s1318
+i"GEImage.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/Game.h
+c000000004D5C41380000000000000321
+t1297891640
+s801
+i<Foundation/Foundation.h>
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/Game.m
+c000000004D5C414600000000000005B1
+t1297891654
+s1457
+i"Game.h"
+i"Ball.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GameElement.h
+c000000004D5C415000000000000001B5
+t1297891664
+s437
+i<Foundation/Foundation.h>
+i"Game.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GameElement.m
+c000000004D5C41580000000000000213
+t1297891672
+s531
+i"GameElement.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/HorizontalBorder.h
+c000000004D5C421C0000000000000272
+t1297891868
+s626
+i<Foundation/Foundation.h>
+i"GameElement.h"
+i"Ball.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/HorizontalBorder.m
+c000000004D5C4224000000000000048A
+t1297891876
+s1162
+i"HorizontalBorder.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/IVBrickerAppDelegate.h
+c000000004D2C3C4400000000000001F2
+t1294744644
+s498
+i<UIKit/UIKit.h>
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/IVBrickerAppDelegate.m
+c000000004D2C3C440000000000000A9C
+t1294744644
+s2716
+i"IVBrickerAppDelegate.h"
+i"IVBrickerViewController.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/IVBrickerViewController.h
+c000000004D5D260A0000000000000232
+t1297950218
+s562
+i<UIKit/UIKit.h>
+i"Game.h"
+i"GameElement.h"
+i"GEImage.h"
+i"VerticalBorder.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/VerticalBorder.h
+c000000004D5C42280000000000000261
+t1297891880
+s609
+i<Foundation/Foundation.h>
+i"GameElement.h"
+i"Ball.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/VerticalBorder.m
+c000000004D5C422C000000000000048E
+t1297891884
+s1166
+i"VerticalBorder.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/ball.h
+c000000004D5C2EDA000000000000020F
+t1297886938
+s527
+i<Foundation/Foundation.h>
+i"GEImage.h"
+i"gameElement.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/ball.m
+c000000004D5C329200000000000002D6
+t1297887890
+s726
+i"ball.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/gameElement.h
+c000000004D4AA58600000000000001B5
+t1296737670
+s437
+i<Foundation/Foundation.h>
+i"Game.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/gameElement.m
+c000000004D5121480000000000000213
+t1297162568
+s531
+i"gameElement.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/horizontalBorder.h
+c000000004D5C419E0000000000000272
+t1297891742
+s626
+i<Foundation/Foundation.h>
+i"GameElement.h"
+i"ball.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/horizontalBorder.m
+c000000004D5C41AA000000000000048A
+t1297891754
+s1162
+i"horizontalBorder.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/verticalBorder.h
+c000000004D5C41940000000000000261
+t1297891732
+s609
+i<Foundation/Foundation.h>
+i"GameElement.h"
+i"Ball.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/verticalBorder.m
+c000000004D5C41C2000000000000048E
+t1297891778
+s1166
+i"verticalBorder.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/IVBrickerViewController.h
+c000000004D4AA59A0000000000000403
+t1296737690
+s1027
+i<UIKit/UIKit.h>
+i"Game.h"
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/IVBrickerViewController.xib
+c000000004D5CDF7C0000000000004529
+t1297932156
+s17705
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/IVBricker_Prefix.pch
+c000000004D2C3C4400000000000000BB
+t1294744644
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/MainWindow.xib
+c000000004D2C3C440000000000004E41
+t1294744644
+s20033
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/ball.png
+c000000004A5FBD44000000000000028A
+t1247788356
+s650
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app
+t1297951416
+s16384
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app.dSYM
+t1297951414
+s16384
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/IVBricker
+t1297951414
+s38888
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/IVBrickerViewController.nib
+t1297951412
+s1086
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/Info.plist
+t1297951410
+s599
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/MainWindow.nib
+t1297951412
+s1127
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/PkgInfo
+t1297951412
+s8
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/ball.png
+t1297951412
+s650
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/paddle.png
+t1297951412
+s1247
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/Ball.o
+t1297951414
+s10516
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/GEImage.o
+t1297951414
+s12128
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/Game.o
+t1297951414
+s14200
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/GameElement.o
+t1297951414
+s8344
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/HorizontalBorder.o
+t1297951414
+s12144
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/IVBricker.LinkFileList
+c000000004D5D2AB20000000000000580
+t1297951410
+s1408
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/IVBrickerAppDelegate.o
+t1297951412
+s50824
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/IVBrickerViewController.o
+t1297951414
+s51884
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/VerticalBorder.o
+t1297951414
+s12048
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/ball.o
+t1297889456
+s10472
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/gameElement.o
+t1297889456
+s8344
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/horizontalBorder.o
+t1297889458
+s12144
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/main.o
+t1297951412
+s6320
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/verticalBorder.o
+t1297889456
+s12048
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/main.m
+c000000004D2C3C440000000000000172
+t1294744644
+s370
+i<UIKit/UIKit.h>
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/paddle.png
+c000000004A5A82D000000000000004DF
+t1247445712
+s1247
+
+N/var/folders/8G/8GalgwV5EUmJvcgzL8oEJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IVBricker_Prefix-gbvtaryvmptgsofjmnelwvbqfpwh/IVBricker_Prefix.pch.gch
+t1296483863
+s15113424
+
+NIVBricker-Info.plist
+c000000004D2C3C44000000000000038D
+t1294744644
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319644208#319644211#0(0"0(0#1#0"8618186528#0"0#
+
+CCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/Ball.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/Ball.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319644214.483322
+e319644214.579833
+r1
+xCompileC
+xbuild/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/Ball.o
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/Ball.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/Ball.m319644214#319644214#0(0"0(0#0#69"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/Ball.m8618928896#2264"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-generated-files.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-own-target-headers.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-all-target-headers.hmap" -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-project-headers.hmap" "-F/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/include" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources/i386" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/8G/8GalgwV5EUmJvcgzL8oEJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IVBricker_Prefix-gbvtaryvmptgsofjmnelwvbqfpwh/IVBricker_Prefix.pch -c "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/Ball.m" -o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/Ball.o"0#
+
+CCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/GEImage.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GEImage.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319644214.618612
+e319644215.752669
+r1
+xCompileC
+xbuild/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/GEImage.o
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GEImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GEImage.m319644214#319644215#0(0"0(0#0#72"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GEImage.m8625672096#2270"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-generated-files.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-own-target-headers.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-all-target-headers.hmap" -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-project-headers.hmap" "-F/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/include" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources/i386" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/8G/8GalgwV5EUmJvcgzL8oEJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IVBricker_Prefix-gbvtaryvmptgsofjmnelwvbqfpwh/IVBricker_Prefix.pch -c "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GEImage.m" -o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/GEImage.o"0#
+
+CCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/Game.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/Game.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319644214.484850
+e319644214.618502
+r1
+xCompileC
+xbuild/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/Game.o
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/Game.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/Game.m319644214#319644214#0(0"0(0#0#69"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/Game.m8626350976#2264"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-generated-files.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-own-target-headers.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-all-target-headers.hmap" -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-project-headers.hmap" "-F/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/include" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources/i386" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/8G/8GalgwV5EUmJvcgzL8oEJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IVBricker_Prefix-gbvtaryvmptgsofjmnelwvbqfpwh/IVBricker_Prefix.pch -c "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/Game.m" -o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/Game.o"0#
+
+CCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/GameElement.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GameElement.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319644214.579949
+e319644215.665696
+r1
+xCompileC
+xbuild/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/GameElement.o
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GameElement.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GameElement.m319644214#319644215#0(0"0(0#0#76"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GameElement.m8625904672#2278"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-generated-files.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-own-target-headers.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-all-target-headers.hmap" -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-project-headers.hmap" "-F/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/include" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources/i386" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/8G/8GalgwV5EUmJvcgzL8oEJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IVBricker_Prefix-gbvtaryvmptgsofjmnelwvbqfpwh/IVBricker_Prefix.pch -c "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GameElement.m" -o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/GameElement.o"0#
+
+CCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/HorizontalBorder.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/HorizontalBorder.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319644215.665877
+e319644215.785097
+r1
+xCompileC
+xbuild/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/HorizontalBorder.o
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/HorizontalBorder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/HorizontalBorder.m319644215#319644215#0(0"0(0#0#81"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/HorizontalBorder.m8625638464#2288"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-generated-files.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-own-target-headers.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-all-target-headers.hmap" -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-project-headers.hmap" "-F/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/include" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources/i386" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/8G/8GalgwV5EUmJvcgzL8oEJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IVBricker_Prefix-gbvtaryvmptgsofjmnelwvbqfpwh/IVBricker_Prefix.pch -c "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/HorizontalBorder.m" -o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/HorizontalBorder.o"0#
+
+CCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/IVBrickerAppDelegate.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/IVBrickerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319644213.341278
+e319644213.511001
+r1
+xCompileC
+xbuild/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/IVBrickerAppDelegate.o
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/IVBrickerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/IVBrickerAppDelegate.m319644213#319644213#0(0"0(0#0#85"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/IVBrickerAppDelegate.m8621897024#2296"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-generated-files.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-own-target-headers.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-all-target-headers.hmap" -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-project-headers.hmap" "-F/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/include" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources/i386" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/8G/8GalgwV5EUmJvcgzL8oEJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IVBricker_Prefix-gbvtaryvmptgsofjmnelwvbqfpwh/IVBricker_Prefix.pch -c "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/IVBrickerAppDelegate.m" -o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/IVBrickerAppDelegate.o"0#
+
+CCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/IVBrickerViewController.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319644213.439510
+e319644214.483188
+r1
+xCompileC
+xbuild/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/IVBrickerViewController.o
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m: In function '-[IVBrickerViewController viewDidLoad]':
+o/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:32: warning: multiple methods named '-init' found
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:72: warning: using '-(id)init'
+o/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GameElement.h:15: warning: also found '-(void)init'
+o/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m: At top level:
+o/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: property 'scoreLabel' requires method '-scoreLabel' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: property 'scoreLabel' requires the method 'setScoreLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: property 'ball' requires method '-ball' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: property 'ball' requires the method 'setBall:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: property 'livesLabel' requires method '-livesLabel' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: property 'livesLabel' requires the method 'setLivesLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: property 'messageLabel' requires method '-messageLabel' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: property 'messageLabel' requires the method 'setMessageLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: incomplete implementation of class 'IVBrickerViewController'
+o/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: method definition for '-gameLogic' not found
+o/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: method definition for '-initializeTimer' not found
+o/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: method definition for '-pauseGame' not found
+o/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: method definition for '-startPlaying' not found
+lSLF07#2@99"Compile /Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m319644213#319644214#0(3364"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m: In function '-[IVBrickerViewController viewDidLoad]':/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:32: warning: multiple methods named '-init' found/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:72: warning: using '-(id)init'/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GameElement.h:15: warning: also found '-(void)init'/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m: At top level:/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: property 'scoreLabel' requires method '-scoreLabel' to be defined - use @synthesize, @dynamic or provide a method implementation/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: property 'scoreLabel' requires the method 'setScoreLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: property 'ball' requires method '-ball' to be defined - use @synthesize, @dynamic or provide a method implementation/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: property 'ball' requires the method 'setBall:' to be defined - use @synthesize, @dynamic or provide a method implementation/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: property 'livesLabel' requires method '-livesLabel' to be defined - use @synthesize, @dynamic or provide a method implementation/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: property 'livesLabel' requires the method 'setLivesLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: property 'messageLabel' requires method '-messageLabel' to be defined - use @synthesize, @dynamic or provide a method implementation/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: property 'messageLabel' requires the method 'setMessageLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: incomplete implementation of class 'IVBrickerViewController'/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: method definition for '-gameLogic' not found/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: method definition for '-initializeTimer' not found/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: method definition for '-pauseGame' not found/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m:123: warning: method definition for '-startPlaying' not found17(22@36"Multiple methods named '-init' found319644213#147#142#0(6@91"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m319643964#32#0#32#0#0"0(22@17"Using '-(id)init'319644213#289#181#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h309418463#72#0#72#0#0"0(22@24"Also found '-(void)init'319644213#470#115#0(6@76"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/GameElement.h319584464#15#0#15#0#0"0(23@13"At top level:319644213#585#107#0(6@91"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m319643964#0#0#0#0#0"0(22@128"Property 'scoreLabel' requires method '-scoreLabel' to be defined - use @synthesize, @dynamic or provide a method implementation319644213#692#235#0(6@91"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m319643964#123#0#123#0#0"0(22@135"Property 'scoreLabel' requires the method 'setScoreLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation319644213#927#242#0(6@91"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m319643964#123#0#123#0#0"0(22@116"Property 'ball' requires method '-ball' to be defined - use @synthesize, @dynamic or provide a method implementation319644213#1169#223#0(6@91"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m319643964#123#0#123#0#0"0(22@123"Property 'ball' requires the method 'setBall:' to be defined - use @synthesize, @dynamic or provide a method implementation319644213#1392#230#0(6@91"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m319643964#123#0#123#0#0"0(22@128"Property 'livesLabel' requires method '-livesLabel' to be defined - use @synthesize, @dynamic or provide a method implementation319644213#1622#235#0(6@91"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m319643964#123#0#123#0#0"0(22@135"Property 'livesLabel' requires the method 'setLivesLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation319644213#1857#242#0(6@91"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m319643964#123#0#123#0#0"0(22@132"Property 'messageLabel' requires method '-messageLabel' to be defined - use @synthesize, @dynamic or provide a method implementation319644213#2099#239#0(6@91"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m319643964#123#0#123#0#0"0(22@139"Property 'messageLabel' requires the method 'setMessageLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation319644213#2338#246#0(6@91"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m319643964#123#0#123#0#0"0(22@60"Incomplete implementation of class 'IVBrickerViewController'319644213#2584#167#0(6@91"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m319643964#123#0#123#0#38"incomplete implementation of class '*'0(22@44"Method definition for '-gameLogic' not found319644213#2751#151#0(6@91"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m319643964#123#0#123#0#35"method definition for '*' not found0(22@50"Method definition for '-initializeTimer' not found319644213#2902#157#0(6@91"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m319643964#123#0#123#0#35"method definition for '*' not found0(22@44"Method definition for '-pauseGame' not found319644213#3059#151#0(6@91"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m319643964#123#0#123#0#35"method definition for '*' not found0(22@47"Method definition for '-startPlaying' not found319644213#3210#154#0(6@91"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m319643964#123#0#123#0#35"method definition for '*' not found0(0#0#91"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m8625924224#2305"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-generated-files.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-own-target-headers.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-all-target-headers.hmap" -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-project-headers.hmap" "-F/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/include" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources/i386" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/8G/8GalgwV5EUmJvcgzL8oEJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IVBricker_Prefix-gbvtaryvmptgsofjmnelwvbqfpwh/IVBricker_Prefix.pch -c "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/../IVBrickerViewController.m" -o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/IVBrickerViewController.o"0#
+
+CCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/VerticalBorder.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/VerticalBorder.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319644213.511195
+e319644214.484744
+r1
+xCompileC
+xbuild/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/VerticalBorder.o
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/VerticalBorder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/VerticalBorder.m319644213#319644214#0(0"0(0#0#79"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/VerticalBorder.m8621476928#2284"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-generated-files.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-own-target-headers.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-all-target-headers.hmap" -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-project-headers.hmap" "-F/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/include" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources/i386" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/8G/8GalgwV5EUmJvcgzL8oEJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IVBricker_Prefix-gbvtaryvmptgsofjmnelwvbqfpwh/IVBricker_Prefix.pch -c "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/VerticalBorder.m" -o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/VerticalBorder.o"0#
+
+CCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/ball.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/ball.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319582257.557459
+e319582257.736236
+r1
+xCompileC
+xbuild/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/ball.o
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/ball.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/ball.m319582257#319582257#0(0"0(0#0#69"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/ball.m8614933728#2264"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-generated-files.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-own-target-headers.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-all-target-headers.hmap" -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-project-headers.hmap" "-F/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/include" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources/i386" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/8G/8GalgwV5EUmJvcgzL8oEJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IVBricker_Prefix-gbvtaryvmptgsofjmnelwvbqfpwh/IVBricker_Prefix.pch -c "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/ball.m" -o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/ball.o"0#
+
+CCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/gameElement.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/gameElement.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319582257.736344
+e319582257.797135
+r1
+xCompileC
+xbuild/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/gameElement.o
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/gameElement.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/gameElement.m319582257#319582257#0(0"0(0#0#76"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/gameElement.m8618652000#2278"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-generated-files.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-own-target-headers.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-all-target-headers.hmap" -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-project-headers.hmap" "-F/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/include" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources/i386" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/8G/8GalgwV5EUmJvcgzL8oEJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IVBricker_Prefix-gbvtaryvmptgsofjmnelwvbqfpwh/IVBricker_Prefix.pch -c "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/gameElement.m" -o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/gameElement.o"0#
+
+CCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/horizontalBorder.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/horizontalBorder.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319582257.871112
+e319582259.780421
+r1
+xCompileC
+xbuild/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/horizontalBorder.o
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/horizontalBorder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/horizontalBorder.m319582257#319582259#0(0"0(0#0#81"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/horizontalBorder.m8604216064#2288"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-generated-files.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-own-target-headers.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-all-target-headers.hmap" -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-project-headers.hmap" "-F/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/include" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources/i386" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/8G/8GalgwV5EUmJvcgzL8oEJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IVBricker_Prefix-gbvtaryvmptgsofjmnelwvbqfpwh/IVBricker_Prefix.pch -c "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/horizontalBorder.m" -o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/horizontalBorder.o"0#
+
+CCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/main.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319644213.340016
+e319644213.439391
+r1
+xCompileC
+xbuild/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/main.o
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/main.m319644213#319644213#0(0"0(0#0#61"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/main.m8622383968#2256"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-generated-files.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-own-target-headers.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-all-target-headers.hmap" -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-project-headers.hmap" "-F/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/include" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources/i386" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/8G/8GalgwV5EUmJvcgzL8oEJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IVBricker_Prefix-gbvtaryvmptgsofjmnelwvbqfpwh/IVBricker_Prefix.pch -c "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/main.m" -o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/verticalBorder.o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/verticalBorder.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319582255.707822
+e319582257.701304
+r1
+xCompileC
+xbuild/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/verticalBorder.o
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/verticalBorder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/verticalBorder.m319582255#319582257#0(0"0(0#0#79"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/verticalBorder.m8613726976#2284"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-generated-files.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-own-target-headers.hmap" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-all-target-headers.hmap" -iquote "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/IVBricker-project-headers.hmap" "-F/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/include" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources/i386" "-I/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/8G/8GalgwV5EUmJvcgzL8oEJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IVBricker_Prefix-gbvtaryvmptgsofjmnelwvbqfpwh/IVBricker_Prefix.pch -c "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/verticalBorder.m" -o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/verticalBorder.o"0#
+
+CCompileXIB "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/IVBrickerViewController.xib"
+s319644212.002823
+e319644213.339833
+r1
+xCompileXIB
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/IVBrickerViewController.xib
+lSLF07#2@38"CompileXIB IVBrickerViewController.xib319644212#319644213#0(0"0(0#0#82"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/IVBrickerViewController.xib8626162496#659"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/IVBrickerViewController.nib" "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/IVBrickerViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/MainWindow.xib"
+s319644212.001531
+e319644213.094996
+r1
+xCompileXIB
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib319644212#319644213#0(0"0(0#0#69"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/MainWindow.xib8601283968#633"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/MainWindow.nib" "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Distribution-iphonesimulator/IVBricker.app/ball.png ball.png
+s319644213.095092
+e319644213.109575
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/IVBricker.app/ball.png
+xball.png
+lSLF07#2@13"Copy ball.png319644213#319644213#0(0"0(0#0#63"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/ball.png8625904160#550"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/ball.png" "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app"0#
+
+CCpResource build/Distribution-iphonesimulator/IVBricker.app/paddle.png paddle.png
+s319644213.097156
+e319644213.111893
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/IVBricker.app/paddle.png
+xpaddle.png
+lSLF07#2@15"Copy paddle.png319644213#319644213#0(0"0(0#0#65"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/paddle.png8625855840#552"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/paddle.png" "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app"0#
+
+CGenerateDSYMFile "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app.dSYM" "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/IVBricker"
+s319644215.816649
+e319644217.821102
+r1
+xGenerateDSYMFile
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app.dSYM
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/IVBricker
+lSLF07#2@129"GenerateDSYMFile build/Distribution-iphonesimulator/IVBricker.app.dSYM build/Distribution-iphonesimulator/IVBricker.app/IVBricker319644215#319644217#0(0"0(0#0#113"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/IVBricker8614137120#457"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/IVBricker" -o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app.dSYM"0#
+
+CLd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/IVBricker" normal i386
+s319644215.785199
+e319644215.816544
+r1
+xLd
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/IVBricker
+xnormal
+xi386
+lSLF07#2@118"Link /Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/IVBricker319644215#319644215#0(0"0(0#0#0"8619187328#1028"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator" "-F/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator" -filelist "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/IVBricker.build/Distribution-iphonesimulator/IVBricker.build/Objects-normal/i386/IVBricker.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/IVBricker"0#
+
+CProcessInfoPlistFile "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/Info.plist" IVBricker-Info.plist
+s319644211.994870
+e319644212.001433
+r1
+xProcessInfoPlistFile
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/Info.plist
+xIVBricker-Info.plist
+lSLF07#2@28"Process IVBricker-Info.plist319644211#319644212#0(0"0(0#0#75"/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/IVBricker-Info.plist8616893408#553"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility IVBricker-Info.plist -genpkginfo "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app/Info.plist"0#
+
+CProcessPCH /var/folders/8G/8GalgwV5EUmJvcgzL8oEJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IVBricker_Prefix-gbvtaryvmptgsofjmnelwvbqfpwh/IVBricker_Prefix.pch.gch IVBricker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app"
+s319644217.821300
+e319644217.824829
+r1
+xTouch
+x/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app
+lSLF07#2@109"Touch /Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app319644217#319644217#0(0"0(0#0#0"8625875744#323"    cd "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution-iphonesimulator/IVBricker.app"0#
+

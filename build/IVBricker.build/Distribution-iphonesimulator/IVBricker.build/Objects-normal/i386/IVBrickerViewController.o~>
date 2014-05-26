@@ -1,0 +1,3 @@
+/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/IVBrickerViewController.m: In function '-[IVBrickerViewController viewDidLoad]':
+/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/IVBrickerViewController.m:42: warning: unused variable 'bDroit'
+/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/IVBrickerViewController.m:41: warning: unused variable 'bGauche'

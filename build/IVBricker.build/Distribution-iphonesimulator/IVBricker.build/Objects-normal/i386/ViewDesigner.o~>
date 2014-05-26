@@ -1,0 +1,5 @@
+/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/ViewDesigner.m: In function '-[ViewDesigner drawRect:]':
+/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/ViewDesigner.m:33: warning: no '-draw:' method found
+/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/ViewDesigner.m:33: warning: (Messages without a matching method signature
+/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/ViewDesigner.m:33: warning: will be assumed to return 'id' and accept
+/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/Classes/ViewDesigner.m:33: warning: '...' as arguments.)

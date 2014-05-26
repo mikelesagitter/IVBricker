@@ -1,0 +1,80 @@
+TIVBricker
+v7
+r1
+cCheck dependencies
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/IVBrickerViewController.xib
+c000000004D5CDF7C0000000000004529
+t1297932156
+s17705
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/MainWindow.xib
+c000000004D2C3C440000000000004E41
+t1294744644
+s20033
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/ball.png
+c000000004A5FBD44000000000000028A
+t1247788356
+s650
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution/IVBricker.app
+t2
+s0
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution/IVBricker.app/Contents/Info.plist
+t2
+s0
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution/IVBricker.app/Contents/PkgInfo
+t2
+s0
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution/IVBricker.app/Contents/Resources/IVBrickerViewController.nib
+t2
+s0
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution/IVBricker.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution/IVBricker.app/Contents/Resources/ball.png
+t2
+s0
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution/IVBricker.app/Contents/Resources/paddle.png
+t2
+s0
+
+N/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/paddle.png
+c000000004A5A82D000000000000004DF
+t1247445712
+s1247
+
+NIVBricker-Info.plist
+c000000004D2C3C44000000000000038D
+t1294744644
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319743879#319743879#0(63"[BEROR]error: There is no SDK with the name or path 'iphoneos'1(4@55"error: There is no SDK with the name or path 'iphoneos'319743879#18446744073709551615#0#0(1@0"0(0#1#0"20547810746433636#0"0#
+
+CCompileXIB "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/IVBrickerViewController.xib"
+r0
+
+CCompileXIB "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/MainWindow.xib"
+r0
+
+CCpResource build/Distribution/IVBricker.app/Contents/Resources/ball.png ball.png
+r0
+
+CCpResource build/Distribution/IVBricker.app/Contents/Resources/paddle.png paddle.png
+r0
+
+CProcessInfoPlistFile "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution/IVBricker.app/Contents/Info.plist" IVBricker-Info.plist
+r0
+
+CTouch "/Volumes/SAGITTER/Lavoro/Progetti xCode/IVBricker test/build/Distribution/IVBricker.app"
+r0
+
